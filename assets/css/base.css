@@ -1,10 +1,11 @@
 :root{
     --background:#ffffff;
-    --foreground:#6e07f3;
-    --primary:#141c3a;
-    --primary-light:#cdd3ed;
+    --foreground:#dbaa71;
+    --primary:#000000;
+    --primary-light:hsl(49, 78%, 87%);
     --primary-foreground:#ffffff;
-    --secondary:#5be8b9;
+    --foreground:#dbaa71;
+    --secondary:#f3deaf;
     --secondary-foreground:#141c3a;
 }
 *{
